@@ -20,4 +20,4 @@ Bu şekilde, ML.NET ve Model Builder ile spam sınıflandırması yapmak için b
 
   ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/abdullaheroll/Ml.Net-TR-Spam-Analizi/main/TRSpamAnalizi/bin/Debug/net7.0/spamanaliz.png)
